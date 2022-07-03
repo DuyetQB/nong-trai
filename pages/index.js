@@ -30,19 +30,16 @@ export default function Home() {
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Đinh Sĩ Duyệt &rarr;</h2>
           </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Đinh Sĩ Duyệt</h2>
             <p>Đinh Sĩ Duyệt đẹp trai!</p>
-
-          </a>
           <p>Đinh Sĩ Duyệt là một người  đẹp trai! . Thông minh . Biết nấu ăn chăm lo gia đình nè </p>
           <section>
             <p>Làm sao có được làn da đẹp như Duyệt nhỉ ? .Câu trả lời sẽ được bật mí sau ít phút nữa</p>
             <Image src={ImageCrush1} alt="ảnh duyệt với crush"
                 width={500}
                 height={500}
-            />
+                layout="responsive"
+            /> 
           </section>
           <p>Đinh Sĩ Duyệt là một người  đẹp trai! . Thông minh . Biết nấu ăn chăm lo gia đình nè </p>
           <a

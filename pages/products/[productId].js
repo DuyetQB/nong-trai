@@ -15,6 +15,7 @@ export default function Product ({ productId, title }) {
             <section>
                 <h1>Sản phẩm - {productId} - {title}</h1>
                 <p>{title}</p>
+                <h3>hehehehh</h3>
             </section>
         </div>
     )

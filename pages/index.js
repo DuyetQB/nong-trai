@@ -8,7 +8,6 @@ export default function Home() {
   return (
     <article className={styles.container}>
       <Head>
-        <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <title>Đinh Sĩ Duyệt bất ngờ được vinh danh tại Gala trao giải vinh quang</title>
         <meta name="description" content="đinh sĩ duyệt đẹp trai đã được mời ăn tối cùng các ca sĩ nổi tiếng" />
         <link rel="icon" href="/favicon.ico" />

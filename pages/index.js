@@ -20,19 +20,19 @@ export default function Home() {
         <link rel="canonical" href="https://nong-trai.vercel.app/" />
         <link rel="alternate" media="only screen and (max-width: 640px)" href="https://nong-trai.vercel.app/"></link>
         <link rel="alternate" media="handheld" href="https://nong-trai.vercel.app/"/>
-        <meta http-equiv="content-language" content="vi"></meta>
+        <meta httpEquiv="content-language" content="vi"></meta>
         <meta name="resource-type" content="Document"></meta>
         <meta name="distribution" content="Global"></meta>
         <meta name="copyright" content="Đinh Sĩ Duyệt"></meta>
         <meta name="author" content="Đinh Sĩ Duyệt"></meta>
         <meta id="idRobots" name="robots" content="index,follow"></meta>
-        <meta http-equiv="audience" content="General"></meta>
+        <meta httpEquiv="audience" content="General"></meta>
         <meta name="google-site-verification" content="b7ZzRX_o6NPmJoqaV_YUFR-M_TGLak-_hel8qS91OXc" />
         <meta property="article:tag" content="đinh sĩ duyệt,duyệt ,đinh sĩ duyệt đẹp trai nhất"></meta>
         <meta itemProp="headline" property="og:title" content="đinh sĩ duyệt đẹp trai đã được mời ăn tối cùng các ca sĩ nổi tiếng"></meta>
         <meta itemProp="description" property="og:description" content="&quot;đinh sĩ duyệt đẹp trai đã được mời ăn tối cùng các ca sĩ nổi tiếng"></meta>
         <meta itemProp="keywords" content="đinh sĩ duyệt,duyệt ,đinh sĩ duyệt đẹp trai nhất" />
-        <meta itemprop="image" content="https://nong-trai.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fanh-chup-vs-crush1.08df22f7.jpg&w=1920&q=75" />
+        <meta itemProp="image" content="https://nong-trai.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fanh-chup-vs-crush1.08df22f7.jpg&w=1920&q=75" />
         <meta itemProp="url" property="og:url" content="https://nong-trai.vercel.app"></meta>
         <meta property="article:section" content="Sở thích cá nhân" />
         <meta property="og:type" content="article" />

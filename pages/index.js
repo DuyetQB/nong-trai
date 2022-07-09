@@ -6,19 +6,43 @@ import ImageCrush1 from "./images/anh-chup-vs-crush1.jpg";
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <article className={styles.container}>
       <Head>
-        <title>Đinh Sĩ Duyệt - DuyetDS</title>
-        <meta name="description" content="Đinh Sĩ Duyệt đẹp trai" />
+        <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <title>Đinh Sĩ Duyệt bất ngờ được vinh danh tại Gala trao giải vinh quang</title>
+        <meta name="description" content="đinh sĩ duyệt đẹp trai đã được mời ăn tối cùng các ca sĩ nổi tiếng" />
         <link rel="icon" href="/favicon.ico" />
-        <meta name="keywords" content="Đinh Sĩ Duyệt,Duyệt ,Đinh Sĩ Duyệt đẹp trai nhất"/>
+        <meta name="keywords" content="đinh sĩ duyệt,duyệt ,đinh sĩ duyệt đẹp trai nhất"/>
+        <meta id="newskeywords" name="news_keywords" content="đinh sĩ duyệt,duyệt ,đinh sĩ duyệt đẹp trai nhất" />
         <meta name="author" content="Đinh Sĩ Duyệt"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta property="og:image" content="https://nong-trai.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fanh-chup-vs-crush1.08df22f7.jpg&w=1920&q=75"/>
+        <link rel="canonical" href="https://nong-trai.vercel.app/" />
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="https://nong-trai.vercel.app/"></link>
+        <link rel="alternate" media="handheld" href="https://nong-trai.vercel.app/"/>
+        <meta http-equiv="content-language" content="vi"></meta>
+        <meta name="resource-type" content="Document"></meta>
+        <meta name="distribution" content="Global"></meta>
+        <meta name="copyright" content="Đinh Sĩ Duyệt"></meta>
+        <meta name="author" content="Đinh Sĩ Duyệt"></meta>
+        <meta id="idRobots" name="robots" content="index,follow"></meta>
+        <meta http-equiv="audience" content="General"></meta>
+        <meta name="google-site-verification" content="b7ZzRX_o6NPmJoqaV_YUFR-M_TGLak-_hel8qS91OXc" />
+        <meta property="article:tag" content="đinh sĩ duyệt,duyệt ,đinh sĩ duyệt đẹp trai nhất"></meta>
+        <meta itemProp="headline" property="og:title" content="đinh sĩ duyệt đẹp trai đã được mời ăn tối cùng các ca sĩ nổi tiếng"></meta>
+        <meta itemProp="description" property="og:description" content="&quot;đinh sĩ duyệt đẹp trai đã được mời ăn tối cùng các ca sĩ nổi tiếng"></meta>
+        <meta itemProp="keywords" content="đinh sĩ duyệt,duyệt ,đinh sĩ duyệt đẹp trai nhất" />
+        <meta itemprop="image" content="https://nong-trai.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fanh-chup-vs-crush1.08df22f7.jpg&w=1920&q=75" />
+        <meta itemProp="url" property="og:url" content="https://nong-trai.vercel.app"></meta>
+        <meta property="article:section" content="Sở thích cá nhân" />
+        <meta property="og:type" content="article" />
+        <meta property="article:author" content="DuyetDS" />
+     
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Đinh Sĩ Duyệt <a href="https://nextjs.org">DuyetDS!</a>
+           Đinh Sĩ Duyệt <a href="https://nextjs.org">DuyetDS!</a>
         </h1>
 
         <p className={styles.description}>
@@ -30,16 +54,19 @@ export default function Home() {
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Đinh Sĩ Duyệt &rarr;</h2>
           </a>
+
+          <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Đinh Sĩ Duyệt</h2>
             <p>Đinh Sĩ Duyệt đẹp trai!</p>
+
+          </a>
           <p>Đinh Sĩ Duyệt là một người  đẹp trai! . Thông minh . Biết nấu ăn chăm lo gia đình nè </p>
           <section>
             <p>Làm sao có được làn da đẹp như Duyệt nhỉ ? .Câu trả lời sẽ được bật mí sau ít phút nữa</p>
             <Image src={ImageCrush1} alt="ảnh duyệt với crush"
                 width={500}
                 height={500}
-                layout="responsive"
-            /> 
+            />
           </section>
           <p>Đinh Sĩ Duyệt là một người  đẹp trai! . Thông minh . Biết nấu ăn chăm lo gia đình nè </p>
           <a
@@ -74,6 +101,6 @@ export default function Home() {
           </span>
         </a>
       </footer>
-    </div>
+    </article>
   )
 }
